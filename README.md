@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="giphy.gif">
+<img src="giphy.gif" align=right>
 
 !--
 **sumaticosmos/sumaticosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
