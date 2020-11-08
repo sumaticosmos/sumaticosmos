@@ -3,5 +3,5 @@
 
 
 
-  🔭 I’m currently working on life
-  🌱 I’m currently learning Git and Github
+
+ --🌱 I’m currently learning Git and Github
