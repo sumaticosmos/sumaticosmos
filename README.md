@@ -5,4 +5,5 @@
 * I am a comptetative programming enthusiast.
 * I love playing basketball. 
 
-
+### My weekly coding activity
+<img src="https://github.com/sumaticosmos/sumaticosmos/blob/main/images/stat.svg" align=center>
